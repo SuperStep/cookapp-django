@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=cookapp
+POSTGRES_USER=dvLZfuTbeSAqlkxkZiXAzRifNWxJZjPT
+POSTGRES_PASSWORD=wZOhXXQobnFlYYaK62D5G8anmS2SXPDoZzleKFunWSrPatuBDKHVBmh2bVe2ENNH
